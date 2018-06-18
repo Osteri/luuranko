@@ -1,2 +1,5 @@
 +++
+date = "{{ .Date }}"
+title = "{{ .Name }}"
+
 +++
