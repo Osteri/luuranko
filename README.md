@@ -1,6 +1,6 @@
 # Simple hugo theme.
 
-## You need to have site where you test this theme, let's create one.
+## You need to have a site where you test this theme, let's create one.
 
 - Make sure you have hugo binary in your path
 - Run `hugo new site new-blog` for creating a new site
